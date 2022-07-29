@@ -1,6 +1,7 @@
 # Projeto de Criação da Interface Inicial do instagram
 
-## Projeto desenvolvido para o Santander Bootcamp - Fullstack Developer 2022, da DIO - Digital Innovation One, em que recriei o layout de pagina inicial do instagram.
+## Projeto desenvolvido como desafio do curso de Fullstack Developer da DIO - Digital Innovation One, para o Santander Bootcamp 2022 , em que tive que recriar o layout de pagina inicial do instagram.
+<p>
 Para a criação do layout, foi utilizadas ações do front-end, utilizando códigos em HTML e conceitos de Flexbox CSS.
   
 
@@ -23,5 +24,6 @@ Para a criação do layout, foi utilizadas ações do front-end, utilizando cód
 
 <br>
 
-@munichkc
+:sparkles:
+https://github.com/munichkc
 
